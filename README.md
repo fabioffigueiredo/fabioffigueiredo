@@ -29,6 +29,6 @@ Machine Learning • Deep Learning • Análise de Dados • Automação com Pyt
 ---
 
 📌 **Como me encontrar:**
-- 💼 [LinkedIn](https://www.linkedin.com/in/fabio-figueiredo-295a8191/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/fabio-ffigueiredo/)
 - 🌐 [Portfólio](https://fabioffigueiredo.github.io/fabiofigueiredo/)
 - 📧 fabioinformacao@gmail.com
