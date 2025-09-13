@@ -1,34 +1,25 @@
-# 👋 Olá! Eu sou Fábio Figueiredo
+# Olá, eu sou o Fábio Ferreira Figueiredo 👋
 
-💻 Profissional com **+11 anos de experiência em TI** e atualmente em transição para **Ciência de Dados e Inteligência Artificial**.
+Sou um Engenheiro de Dados e Consultor em IA Generativa com mais de 11 anos de experiência em Tecnologia da Informação. Minha paixão é construir pontes entre a infraestrutura de TI, o universo dos dados e o poder da Inteligência Artificial para gerar inovação e resultados de negócio.
 
-🎯 **Áreas de interesse**:  
-Machine Learning • Deep Learning • Análise de Dados • Automação com Python • Power BI • NLP • Visualização de Dados
+- 🔭 Atualmente estou trabalhando em projetos de automação com IA e análise preditiva com Machine Learning.
+- 🌱 Aprofundando meus conhecimentos em Deep Learning e NLP na Pós-Graduação MIT.
+- 💬 Fale comigo sobre: Engenharia de Dados, IA Generativa, Python, Automação de Processos e Machine Learning.
+- 📫 Como me encontrar:
 
-📚 **Formação e Certificações**:
-- 🎓 Bacharel em Sistemas de Informação
-- 📘 Pós-graduação MIT em IA, Machine Learning e Deep Learning (Instituto Infnet) — *em andamento*
-- 🐍 Certificação em Python para Ciência de Dados
-- 📊 Data Analytics com Power BI (*em andamento*)
-
-🛠️ **Tecnologias**:
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat&logo=matplotlib&logoColor=white)
+<a href="https://www.linkedin.com/in/fabio-ffigueiredo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://fabioffigueiredo.github.io/fabiofigueiredo/" target="_blank"><img src="https://img.shields.io/badge/Website-478398?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+<a href="mailto:fabioinformacao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ---
 
-## 🚀 Projetos em Destaque
-- 🤖 **[Bot WhatsApp para Cotação e Câmbio](https://github.com/fabioffigueiredo/)** – Automação com Python e APIs
-- 📊 **Dashboard Interativo com Power BI** – Visualização de dados e insights
-- 📈 **Análise Exploratória com Pandas e Scikit-learn** – Tratamento e modelagem de dados
+### **Minhas Competências Técnicas**
 
----
+**IA & Data Science:**
+`Inteligência Artificial Generativa` `Machine Learning` `Engenharia de Dados` `Ciência de Dados` `Análise Preditiva`
 
-📌 **Como me encontrar:**
-- 💼 [LinkedIn](https://www.linkedin.com/in/fabio-ffigueiredo/)
-- 🌐 [Portfólio](https://fabioffigueiredo.github.io/fabiofigueiredo/)
-- 📧 fabioinformacao@gmail.com
+**Linguagens & Ferramentas:**
+`Python` `Pandas` `Scikit-learn` `TensorFlow` `SQL` `Power BI` `Docker` `Git`
+
+**Fundamentos:**
+`Infraestrutura de TI` `Administração de Sistemas` `Governança de Dados` `Segurança da Informação`
