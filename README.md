@@ -8,7 +8,7 @@ Sou um Engenheiro de Dados e Consultor em IA Generativa com mais de 11 anos de e
 - 📫 Como me encontrar:
 
 <a href="https://www.linkedin.com/in/fabio-ffigueiredo-datascience/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://fabioffigueiredo.github.io/fabiofigueiredo/" target="_blank"><img src="https://img.shields.io/badge/Website-478398?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+<a href="https://fabiofigueiredo.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-478398?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 <a href="mailto:fabioinformacao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ---
