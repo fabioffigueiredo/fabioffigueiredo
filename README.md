@@ -1,6 +1,18 @@
+![badgen.net AI & ML Badge](https://img.shields.io/badge/AI%20%26%20ML%20Engineer-FF6B6B?style=for-the-badge&logo=algorithm&logoColor=white) ![badgen.net Data Scientist Badge](https://img.shields.io/badge/Senior%20Data%20Scientist-4ECDC4?style=for-the-badge&logo=analytics&logoColor=white) ![badgen.net DevOps Badge](https://img.shields.io/badge/MLOps%20%26%20DevOps-45B7D1?style=for-the-badge&logo=docker&logoColor=white)
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Senior+Data+Scientist;AI+%26+ML+Engineer;Kubernetes+%26+MLOps+Expert;Building+AI-First+Solutions" alt="Typing SVG" />
+</div>
+
+---
+
 # 👋 Olá, eu sou o Fábio Ferreira Figueiredo
 
 **Senior Data Scientist | AI & ML Engineer | Kubernetes & MLOps Expert**
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=fabioffigueiredo&style=flat-square&color=00D9FF" alt="Profile Views" />
+</div>
 
 ---
 
@@ -50,20 +62,25 @@ Adoto a metodologia **AI FIRST** para transformar dados complexos em soluções 
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 ### Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
 ### MLOps & DevOps
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-1E3A5F?style=for-the-badge&logo=argo&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -78,11 +95,12 @@ Adoto a metodologia **AI FIRST** para transformar dados complexos em soluções 
 ## 📈 Conquistas & Impacto
 
 ✅ **11+ anos de experiência** em TI e infraestrutura  
-✅ **278 contribuições** no GitHub em 2025  
+✅ **278+ contribuições** no GitHub em 2025  
 ✅ **100+ pessoas apoiadas** em projetos técnicos  
 ✅ **70% redução** no tempo de processamento com automação  
 ✅ **+92% acurácia** em modelos de ML em produção  
-✅ **Data Centers & Protótipos** viabilizados para governo e investidores
+✅ **Data Centers & Protótipos** viabilizados para governo e investidores  
+✅ **40+ repositórios públicos** com soluções em IA e Data Science
 
 ---
 
@@ -99,16 +117,46 @@ Adoto a metodologia **AI FIRST** para transformar dados complexos em soluções 
 
 ## 📫 Como me Encontrar
 
-<a href="https://www.linkedin.com/in/fabio-ffigueiredo-datascience/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://fabiofigueiredo.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-4E8555?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
-<a href="mailto:fabio.f.figueiredo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-ffigueiredo-datascience/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4E8555?style=for-the-badge&logo=firefox&logoColor=white)](https://fabiofigueiredo.vercel.app/)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabio.f.figueiredo@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fabioffigueiredo)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/fabio_figueiredo)
+
+</div>
 
 ---
 
+## 📊 Estatísticas & Contribuições
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabioffigueiredo&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide=stars)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioffigueiredo&theme=dark&layout=compact)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=fabioffigueiredo&theme=dark)
+
+</div>
+
+---
+
+<div align="center">
+  
 📊 **Status Profissional**: Open to opportunities in **AI/ML Engineer**, **Data Scientist**, **MLOps Engineer** roles  
 🔗 **GitHub**: 40+ repositórios públicos | 278+ contribuições em 2025  
 🌐 **Portfolio**: [fabiofigueiredo.vercel.app](https://fabiofigueiredo.vercel.app/)
 
+*"Transformando dados em soluções inovadoras que geram valor real para negócios"* 🚀
+
 ---
 
-*"Transformando dados em soluções inovadoras que geram valor real para negócios"* 🚀
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f11dc0f-6e41-4f18-9c51-72e6534fdbfe.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-e2202a3d7d67.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-e2202a3d7d67.png">
+</picture>
+
+</div>
