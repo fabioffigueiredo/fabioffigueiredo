@@ -137,7 +137,6 @@ Adoto a metodologia **AI FIRST** para transformar dados complexos em soluções 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioffigueiredo&theme=dark&layout=compact)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=fabioffigueiredo&theme=dark)
 
 </div>
 
