@@ -132,11 +132,10 @@ Adoto a metodologia **AI FIRST** para transformar dados complexos em soluções 
 ## 📊 Estatísticas & Contribuições
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabioffigueiredo&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide=stars)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioffigueiredo&theme=dark&layout=compact)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabioffigueiredo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=86400"/>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioffigueiredo&layout=compact&theme=dark&cache_seconds=86400"/>
 
 </div>
 
