@@ -142,7 +142,7 @@ Adoto a metodologia **AI FIRST** para transformar dados complexos em soluções 
 ---
 
 <div align="center">
-  
+
 📊 **Status Profissional**: Open to opportunities in **AI/ML Engineer**, **Data Scientist**, **MLOps Engineer** roles  
 🔗 **GitHub**: 40+ repositórios públicos | 278+ contribuições em 2025  
 🌐 **Portfolio**: [fabiofigueiredo.vercel.app](https://fabiofigueiredo.vercel.app/)
@@ -151,10 +151,6 @@ Adoto a metodologia **AI FIRST** para transformar dados complexos em soluções 
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f11dc0f-6e41-4f18-9c51-72e6534fdbfe.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-e2202a3d7d67.png">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Fabio%20Figueiredo&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Fabio%20Figueiredo&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
