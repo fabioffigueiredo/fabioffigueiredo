@@ -73,6 +73,9 @@ Adoto a metodologia **AI FIRST** para transformar dados complexos em soluções 
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### MLOps & DevOps
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -95,12 +98,12 @@ Adoto a metodologia **AI FIRST** para transformar dados complexos em soluções 
 ## 📈 Conquistas & Impacto
 
 ✅ **11+ anos de experiência** em TI e infraestrutura  
-✅ **278+ contribuições** no GitHub em 2025  
+✅ **278+ contribuições** no GitHub em 2026  
 ✅ **100+ pessoas apoiadas** em projetos técnicos  
 ✅ **70% redução** no tempo de processamento com automação  
 ✅ **+92% acurácia** em modelos de ML em produção  
 ✅ **Data Centers & Protótipos** viabilizados para governo e investidores  
-✅ **40+ repositórios públicos** com soluções em IA e Data Science
+✅ **33+ repositórios públicos** com soluções em IA e Data Science
 
 ---
 
@@ -133,9 +136,9 @@ Adoto a metodologia **AI FIRST** para transformar dados complexos em soluções 
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fabioffigueiredo&show_icons=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=fabioffigueiredo&show_icons=true&theme=dark" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fabioffigueiredo&layout=compact&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioffigueiredo&layout=compact&theme=dark" />
 
 </div>
 
@@ -144,7 +147,7 @@ Adoto a metodologia **AI FIRST** para transformar dados complexos em soluções 
 <div align="center">
 
 📊 **Status Profissional**: Open to opportunities in **AI/ML Engineer**, **Data Scientist**, **MLOps Engineer** roles  
-🔗 **GitHub**: 40+ repositórios públicos | 278+ contribuições em 2025  
+🔗 **GitHub**: 33+ repositórios públicos | 278+ contribuições em 2026  
 🌐 **Portfolio**: [fabiofigueiredo.vercel.app](https://fabiofigueiredo.vercel.app/)
 
 *"Transformando dados em soluções inovadoras que geram valor real para negócios"* 🚀
