@@ -19,8 +19,8 @@ empresas e dos clientes.
   para atribuição de performance usando RAG, citações, guardrails e dados fictícios declarados.
 - **[FinNLP Performance Attribution](https://github.com/fabioffigueiredo/finnlp_performance_attribution)**
   — pipeline de NLP financeiro com avaliação documentada, histórico de entidades e streaming.
-- **[MLOps Journey](https://github.com/fabioffigueiredo/mlops-journey-showcase)** — decisões,
-  demonstrações e aprendizados sobre operacionalização de modelos.
+- **[Operacionalização de Modelos e MLOps](https://github.com/fabioffigueiredo/pd_operacionalizao_modelos_mlops)** — experimentos reproduzíveis sobre rastreamento,
+  versionamento e entrega de modelos.
 - **[Finance Data Governance OS](https://github.com/fabioffigueiredo/finance-data-governance-os)** —
   padrões para ML rastreável e analytics governado em ambientes regulados.
 - **[FinRAG acadêmico](https://github.com/fabioffigueiredo/pd-sc-finrag)** — recuperação semântica,
@@ -46,4 +46,4 @@ Infnet, concluída em 2026.
 
 [Portfólio](https://fabiofigueiredo.vercel.app/) ·
 [LinkedIn](https://www.linkedin.com/in/fabio-ffigueiredo-datascience/) ·
-[E-mail](mailto:fabio.f.figueiredo@gmail.com)
+[E-mail](mailto:fabio.figueiredo.ai@gmail.com)
