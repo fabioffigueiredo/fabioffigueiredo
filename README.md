@@ -1,43 +1,49 @@
-# Fabio Figueiredo
+# Fábio Figueiredo
 
-Machine Learning & AI Engineer | Senior Data Scientist
+**Machine Learning Engineer | AI Engineer | Cientista de Dados Sênior**
 
-I build ML systems with an emphasis on what happens after experimentation: serving, evaluation,
-observability, reproducibility and governance. My public work covers MLOps, auditable RAG, financial
-NLP and computer vision.
+Construo sistemas de Machine Learning pensando no que acontece depois do experimento: entrega,
+avaliação, observabilidade, reprodutibilidade e governança. Meus projetos públicos conectam MLOps,
+RAG auditável, NLP financeiro e visão computacional.
 
-I currently work as a Senior Data Scientist (Cientista de Dados Sênior) through Globalweb, allocated to BB Asset. Professional
-details shared here are intentionally limited to protect employer and client confidentiality.
+Atualmente trabalho como **Cientista de Dados Sênior pela Globalweb, alocado na BB Asset**. Limito
+intencionalmente os detalhes profissionais publicados para preservar a confidencialidade das
+empresas e dos clientes.
 
-## Selected work
+## Projetos selecionados
 
-- [VisionOps Realtime](https://github.com/fabioffigueiredo/visionops-realtime) — object detection and
-  tracking service with FastAPI, operational metrics, drift indicators and explicit privacy limits.
-- [FinRAG PRISMA](https://github.com/fabioffigueiredo/FinRAG_Prisma) — auditable explanations for
-  performance attribution using RAG, citations and guardrails.
-- [FinNLP Performance Attribution](https://github.com/fabioffigueiredo/finnlp_performance_attribution)
-  — financial NLP pipeline with documented evaluation, entity history and streaming.
-- [MLOps Journey](https://github.com/fabioffigueiredo/mlops-journey-showcase) — a public record of
-  model operationalization decisions and demonstrations.
-- [Finance Data Governance OS](https://github.com/fabioffigueiredo/finance-data-governance-os) —
-  patterns for traceable ML and governed analytics in regulated environments.
-- [FinRAG academic project](https://github.com/fabioffigueiredo/pd-sc-finrag) — retrieval,
-  guardrails and semantic search explored during my MIT postgraduate program at Infnet.
+- **[VisionOps Realtime](https://github.com/fabioffigueiredo/visionops-realtime)** — serviço de
+  detecção e tracking com FastAPI, adaptadores para YOLO/ByteTrack, métricas operacionais, indicador
+  de drift, testes e limites explícitos de privacidade.
+- **[FinRAG PRISMA](https://github.com/fabioffigueiredo/FinRAG_Prisma)** — explicações auditáveis
+  para atribuição de performance usando RAG, citações, guardrails e dados fictícios declarados.
+- **[FinNLP Performance Attribution](https://github.com/fabioffigueiredo/finnlp_performance_attribution)**
+  — pipeline de NLP financeiro com avaliação documentada, histórico de entidades e streaming.
+- **[MLOps Journey](https://github.com/fabioffigueiredo/mlops-journey-showcase)** — decisões,
+  demonstrações e aprendizados sobre operacionalização de modelos.
+- **[Finance Data Governance OS](https://github.com/fabioffigueiredo/finance-data-governance-os)** —
+  padrões para ML rastreável e analytics governado em ambientes regulados.
+- **[FinRAG acadêmico](https://github.com/fabioffigueiredo/pd-sc-finrag)** — recuperação semântica,
+  guardrails e RAG explorados durante a pós-graduação no Instituto Infnet.
 
-## Current focus
+## Foco técnico
 
-- Machine Learning and AI Engineering in production
-- MLOps, model evaluation and observability
-- Computer vision and multimodal systems
-- RAG/LLMs with evidence, citations and guardrails
-- Data and AI governance in regulated environments
+- Machine Learning e AI Engineering em produção
+- MLOps, avaliação de modelos e observabilidade
+- Visão computacional e sistemas multimodais
+- RAG/LLMs com evidências, citações e guardrails
+- Governança de dados e IA em ambientes regulados
 
-Core tools: Python, FastAPI, scikit-learn, PyTorch, MLflow, Docker, Kubernetes, PySpark,
-Databricks, vector databases and SQL.
+**Tecnologias principais:** Python, FastAPI, scikit-learn, PyTorch, MLflow, Docker, Kubernetes,
+PySpark, Databricks, bancos vetoriais e SQL.
 
-Postgraduate MIT in Artificial Intelligence, Machine Learning and Deep Learning — Instituto Infnet,
-completed in 2026.
+## Formação
 
-[Portfolio](https://fabiofigueiredo.vercel.app/) ·
+Pós-graduação MIT em Inteligência Artificial, Machine Learning e Deep Learning pelo Instituto
+Infnet, concluída em 2026.
+
+## Contato
+
+[Portfólio](https://fabiofigueiredo.vercel.app/) ·
 [LinkedIn](https://www.linkedin.com/in/fabio-ffigueiredo-datascience/) ·
-[Email](mailto:fabio.f.figueiredo@gmail.com)
+[E-mail](mailto:fabio.f.figueiredo@gmail.com)
