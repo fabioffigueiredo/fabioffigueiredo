@@ -1,0 +1,247 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Perfil GitHub de Fabio Figueiredo</title>
+    <style>
+      @font-face {
+        font-family: "Barlow Condensed Local";
+        font-style: normal;
+        font-weight: 700;
+        font-display: block;
+        src: url("fonts/barlow-condensed-700.woff2") format("woff2");
+      }
+
+      @font-face {
+        font-family: "Atkinson Hyperlegible Next Local";
+        font-style: normal;
+        font-weight: 100 900;
+        font-display: block;
+        src: url("fonts/atkinson-hyperlegible-next.woff2") format("woff2");
+      }
+
+      :root {
+        --ink: #0b0d10;
+        --surface: #121722;
+        --paper: #f7f7f5;
+        --muted: #aeb8c7;
+        --signal: #5f82ff;
+        --signal-bright: #9bb2ff;
+        --caution: #ff6848;
+      }
+
+      * { box-sizing: border-box; }
+
+      html,
+      body {
+        width: 1280px;
+        height: 384px;
+        margin: 0;
+        overflow: hidden;
+        background: var(--ink);
+      }
+
+      body {
+        color: var(--paper);
+        font-family: "Atkinson Hyperlegible Next Local", sans-serif;
+        -webkit-font-smoothing: antialiased;
+        text-rendering: geometricPrecision;
+      }
+
+      .hero {
+        position: relative;
+        width: 1280px;
+        height: 384px;
+        overflow: hidden;
+        background: var(--ink);
+      }
+
+      .hero::before {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 44px;
+        width: 1px;
+        content: "";
+        background: rgba(155, 178, 255, 0.28);
+      }
+
+      .hero::after {
+        position: absolute;
+        right: 44px;
+        bottom: 35px;
+        left: 44px;
+        height: 1px;
+        content: "";
+        background: rgba(247, 247, 245, 0.16);
+      }
+
+      .copy {
+        position: absolute;
+        top: 43px;
+        left: 76px;
+        width: 790px;
+      }
+
+      .eyebrow {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        margin: 0 0 18px;
+        color: var(--signal-bright);
+        font-family: "Barlow Condensed Local", sans-serif;
+        font-size: 22px;
+        font-weight: 700;
+        letter-spacing: 0.12em;
+        line-height: 1;
+      }
+
+      .eyebrow::before {
+        width: 24px;
+        height: 3px;
+        content: "";
+        background: var(--caution);
+      }
+
+      h1 {
+        margin: 0;
+        color: var(--paper);
+        font-family: "Barlow Condensed Local", sans-serif;
+        font-size: 63px;
+        font-weight: 700;
+        letter-spacing: -0.035em;
+        line-height: 0.98;
+      }
+
+      h1 span { color: var(--signal-bright); }
+
+      .specialism {
+        margin: 21px 0 0;
+        color: #d9dfe8;
+        font-size: 23px;
+        font-weight: 600;
+        letter-spacing: -0.015em;
+      }
+
+      .evidence-map {
+        position: absolute;
+        top: 46px;
+        right: 46px;
+        width: 300px;
+        height: 260px;
+        border: 1px solid rgba(155, 178, 255, 0.34);
+        background: var(--surface);
+      }
+
+      .map-label {
+        position: absolute;
+        top: 20px;
+        left: 22px;
+        margin: 0;
+        color: var(--muted);
+        font-family: "Barlow Condensed Local", sans-serif;
+        font-size: 18px;
+        font-weight: 700;
+        letter-spacing: 0.12em;
+      }
+
+      .evidence-map svg {
+        position: absolute;
+        inset: 57px 22px 22px;
+        width: 256px;
+        height: 181px;
+      }
+
+      .track {
+        fill: none;
+        stroke: rgba(155, 178, 255, 0.58);
+        stroke-width: 2;
+      }
+
+      .node rect {
+        fill: var(--ink);
+        stroke: var(--signal);
+        stroke-width: 2;
+      }
+
+      .node text {
+        fill: var(--paper);
+        font-family: "Atkinson Hyperlegible Next Local", sans-serif;
+        font-size: 15px;
+        font-weight: 700;
+      }
+
+      .node-limit rect { stroke: var(--caution); }
+
+      .meta {
+        position: absolute;
+        right: 47px;
+        bottom: 9px;
+        margin: 0;
+        color: var(--muted);
+        font-family: "Barlow Condensed Local", sans-serif;
+        font-size: 17px;
+        font-weight: 600;
+        letter-spacing: 0.08em;
+      }
+
+      .corner {
+        position: absolute;
+        width: 19px;
+        height: 19px;
+        border-color: rgba(155, 178, 255, 0.55);
+        border-style: solid;
+      }
+
+      .corner-top {
+        top: 22px;
+        left: 44px;
+        border-width: 1px 0 0 1px;
+      }
+
+      .corner-bottom {
+        right: 44px;
+        bottom: 35px;
+        border-width: 0 1px 1px 0;
+      }
+    </style>
+  </head>
+  <body>
+    <main class="hero" aria-label="Identidade de Machine Learning Engineering de Fabio Figueiredo">
+      <div class="corner corner-top" aria-hidden="true"></div>
+      <div class="corner corner-bottom" aria-hidden="true"></div>
+
+      <section class="copy">
+        <p class="eyebrow">MACHINE LEARNING ENGINEER</p>
+        <h1>Sistemas de IA<br /><span>reproduzíveis,</span> inspecionáveis.</h1>
+        <p class="specialism">MLOps · RAG · Computer Vision</p>
+      </section>
+
+      <section class="evidence-map" aria-label="Caminho de evidência: modelo, teste, métrica e limite">
+        <p class="map-label">EVIDENCE PATH</p>
+        <svg viewBox="0 0 256 181" role="img" aria-label="Modelo ligado a teste, métrica e limite">
+          <path class="track" d="M61 34H128V89H195M128 89V145" />
+          <g class="node" transform="translate(8 10)">
+            <rect width="106" height="48" rx="3" />
+            <text x="53" y="30" text-anchor="middle">modelo</text>
+          </g>
+          <g class="node" transform="translate(142 65)">
+            <rect width="106" height="48" rx="3" />
+            <text x="53" y="30" text-anchor="middle">métrica</text>
+          </g>
+          <g class="node" transform="translate(75 121)">
+            <rect width="106" height="48" rx="3" />
+            <text x="53" y="30" text-anchor="middle">teste</text>
+          </g>
+          <g class="node node-limit" transform="translate(8 65)">
+            <rect width="106" height="48" rx="3" />
+            <text x="53" y="30" text-anchor="middle">limite</text>
+          </g>
+        </svg>
+      </section>
+
+      <p class="meta">EVIDÊNCIA ANTES DE PROMESSA</p>
+    </main>
+  </body>
+</html>

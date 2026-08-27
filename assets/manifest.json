@@ -1,0 +1,94 @@
+{
+  "version": 1,
+  "generated_at": "2026-08-27",
+  "public_surface": "github_profile_readme",
+  "fonts": [
+    {
+      "family": "Barlow Condensed",
+      "path": "assets/source/fonts/barlow-condensed-700.woff2",
+      "sha256": "3787a5a419171630e6890cfa47c4da067474d005cd0ff8dc11ec090fdc3ee2b8",
+      "license": "SIL Open Font License 1.1",
+      "license_path": "assets/source/fonts/BARLOW-OFL.txt"
+    },
+    {
+      "family": "Atkinson Hyperlegible Next",
+      "path": "assets/source/fonts/atkinson-hyperlegible-next.woff2",
+      "sha256": "18b2a1a39a2fa298b0ba5390aca68462669826c90925656f1c1f6796e0e1bbaf",
+      "license": "SIL Open Font License 1.1",
+      "license_path": "assets/source/fonts/ATKINSON-OFL.txt"
+    }
+  ],
+  "assets": [
+    {
+      "path": "assets/profile-hero.png",
+      "role": "profile_identity_banner",
+      "width": 1280,
+      "height": 384,
+      "bytes": 44906,
+      "sha256": "e6d15b19011a1523ef22d6d0f0706e1f860653eedd3e9a5c65f7591b5deef0bb",
+      "source": "assets/source/profile-hero.html",
+      "source_sha256": "a8c1ddfb05a02c92dc81f8603a9722685f056c4d47182978d03989398636685e",
+      "external_runtime_dependency": false
+    },
+    {
+      "path": "assets/visionops-tracking.gif",
+      "role": "local_tracking_evidence",
+      "width": 960,
+      "height": 540,
+      "duration_seconds": 3.84,
+      "fps": 6,
+      "loop": false,
+      "bytes": 4167301,
+      "sha256": "68160b84b9dfd8bfc81d00b24234caff4f8be364c1f806ade144d9a43564cf25",
+      "source": "VisionOps Flow V4 raw tracking evidence",
+      "source_sha256": "25619cdacdf179a6fcbbfac539291cdca7872963c2b717ea1955632c57538b44",
+      "source_segment_seconds": [8.0, 11.84],
+      "model": "YOLO11n",
+      "tracker": "ByteTrack via Ultralytics",
+      "license": "Pexels License",
+      "source_author": "Peter Erb",
+      "source_page_url": "https://www.pexels.com/video/vehicle-on-the-road-during-daytime-9073458/",
+      "source_license_url": "https://www.pexels.com/license/",
+      "external_runtime_dependency": false
+    },
+    {
+      "path": "assets/visionops-tracking-poster.png",
+      "role": "deterministic_preview_fallback",
+      "width": 960,
+      "height": 540,
+      "bytes": 793469,
+      "sha256": "90523864ab0fb8e6ce2cc9f7bed47da0975f3c8c495eadfceb1ce00004471169",
+      "source": "VisionOps Flow V4 raw tracking evidence",
+      "source_sha256": "25619cdacdf179a6fcbbfac539291cdca7872963c2b717ea1955632c57538b44",
+      "source_timestamp_seconds": 9.0,
+      "external_runtime_dependency": false
+    },
+    {
+      "path": "assets/prisma-auditable-rag.png",
+      "role": "prisma_public_demo_capture",
+      "width": 1110,
+      "height": 600,
+      "bytes": 505631,
+      "sha256": "9e2161077d1aefb1b616d3ad27b9305cd3df3c4c9dde2063d6f8f928b58e0326",
+      "source_repository": "https://github.com/fabioffigueiredo/FinRAG_Prisma",
+      "source_commit": "e1b8cf5ed86549222659e3f1deaa62b97aa604da",
+      "source_sha256": "56d41268808b8d4429dfd5e5acf4a076aeec7a003f57f3e49a6683112ad9395d",
+      "data_scope": "100% fictitious",
+      "mode": "deterministic_demo",
+      "external_runtime_dependency": false
+    },
+    {
+      "path": "assets/mlops-experiment-tracking.png",
+      "role": "mlflow_public_demo_capture",
+      "width": 1110,
+      "height": 564,
+      "bytes": 155685,
+      "sha256": "eb613fb2731271416ff7f80016830bef5c6340cb4b08c73caa690990cb46d341",
+      "source_repository": "https://github.com/fabioffigueiredo/pd_operacionalizao_modelos_mlops",
+      "source_commit": "935818298e6f3ffb35c8ce3b82268e4702676c9a",
+      "source_sha256": "5fd2453632aea1bf31ba3fd4ecbd142e5a3cbc9e90689fe3b6d2c8855978d09a",
+      "classification": "public_author_owned_demo",
+      "external_runtime_dependency": false
+    }
+  ]
+}
