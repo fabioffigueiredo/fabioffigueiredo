@@ -95,6 +95,56 @@ class ProfileReadmeTests(unittest.TestCase):
     def test_readme_has_no_em_dash(self) -> None:
         self.assertNotIn("—", self.readme)
 
+    def test_mlops_block_uses_the_versioned_blocked_gate_evidence(self) -> None:
+        commit = "1ada3456dd7c905498505adb619d1632bc169d46"
+        normalized_readme = re.sub(r"\s+", " ", self.readme).casefold()
+        required = (
+            "Recall +0,0559",
+            "Precision -0,0298",
+            "FP +405",
+            "FN -112",
+            "custo de falso positivo",
+            "custo de falso negativo",
+            "threshold escolhido",
+            "validação temporal",
+            "plano de monitoramento",
+        )
+
+        self.assertGreaterEqual(self.readme.count(commit), 2)
+        self.assertIn("assets/mlops-promotion-gate.png", self.readme)
+        self.assertNotIn("assets/mlops-experiment-tracking.png", self.readme)
+        self.assertNotIn("tree/9358182", self.readme)
+        self.assertLess(
+            normalized_readme.index("a função desta interface"),
+            normalized_readme.index("a arquitetura conecta"),
+        )
+        for value in required:
+            self.assertIn(value.casefold(), normalized_readme)
+
+    def test_mlops_manifest_records_real_blocked_gate_provenance(self) -> None:
+        item = next(
+            asset
+            for asset in self.manifest["assets"]
+            if asset["path"] == "assets/mlops-promotion-gate.png"
+        )
+
+        self.assertEqual("blocked", item["promotion_gate"])
+        self.assertEqual(
+            "1ada3456dd7c905498505adb619d1632bc169d46",
+            item["source_commit"],
+        )
+        self.assertFalse(item["synthetic_media"])
+        self.assertEqual(
+            [
+                "false_positive_cost",
+                "false_negative_cost",
+                "threshold",
+                "temporal_validation",
+                "monitoring",
+            ],
+            item["missing_evidence"],
+        )
+
 
 if __name__ == "__main__":
     unittest.main()

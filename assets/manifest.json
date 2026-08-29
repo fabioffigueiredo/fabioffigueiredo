@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-27",
+  "generated_at": "2026-08-28",
   "public_surface": "github_profile_readme",
   "fonts": [
     {
@@ -78,16 +78,26 @@
       "external_runtime_dependency": false
     },
     {
-      "path": "assets/mlops-experiment-tracking.png",
-      "role": "mlflow_public_demo_capture",
-      "width": 1110,
-      "height": 564,
-      "bytes": 155685,
-      "sha256": "eb613fb2731271416ff7f80016830bef5c6340cb4b08c73caa690990cb46d341",
+      "path": "assets/mlops-promotion-gate.png",
+      "role": "mlops_blocked_promotion_gate_evidence",
+      "width": 1440,
+      "height": 760,
+      "bytes": 123993,
+      "sha256": "cddab969caff5ae829918b5bfca4ad4bc0681a294351708b9830d1f38948b5a3",
       "source_repository": "https://github.com/fabioffigueiredo/pd_operacionalizao_modelos_mlops",
-      "source_commit": "935818298e6f3ffb35c8ce3b82268e4702676c9a",
-      "source_sha256": "5fd2453632aea1bf31ba3fd4ecbd142e5a3cbc9e90689fe3b6d2c8855978d09a",
-      "classification": "public_author_owned_demo",
+      "source_commit": "1ada3456dd7c905498505adb619d1632bc169d46",
+      "source_artifact": "media/generated/2026-W36/mlops-promotion-gate/source/mlops-gate-dashboard-focus.png",
+      "source_sha256": "cddab969caff5ae829918b5bfca4ad4bc0681a294351708b9830d1f38948b5a3",
+      "classification": "public_author_owned_evidence",
+      "promotion_gate": "blocked",
+      "missing_evidence": [
+        "false_positive_cost",
+        "false_negative_cost",
+        "threshold",
+        "temporal_validation",
+        "monitoring"
+      ],
+      "synthetic_media": false,
       "external_runtime_dependency": false
     }
   ]
